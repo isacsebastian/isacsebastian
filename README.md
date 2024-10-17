@@ -1,6 +1,6 @@
-<div align="center"> <img height="150" src="https://avatars.githubusercontent.com/u/116098944?v=4" style="border-radius: 50px;" /> </div>
+<!--<div align="center"> <img height="150" src="https://avatars.githubusercontent.com/u/116098944?v=4" style="border-radius: 50px;" /> </div>-->
 <!--<div align="center"> <a href="https://www.linkedin.com/in/tuusuario"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" /> </a> <a href="https://www.youtube.com/tuusuario"> <img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25" alt="YouTube" /> </a> <a href="https://twitter.com/tuusuario"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25" alt="Twitter" /> </a> </div>-->
-<h1 align="center">Hola! 😏</h1>
+<h2 align="center">Hola!</h2>
 <h3 align="left">👩‍💻 About Me</h3>
 <p align="left">I'm Isaac Sebastian Guerra from Cuenca, Ecuador <br><br>- 🔭 I’m working as a Web Developer at Prisma Studio<br>- 📚 I'm currently learning about AI, cross-platform mobile development, and QA testing<br>- ⚡ In my free time series Suits, play football, and dance</p>
 <h3 align="left">🛠 Languages and Tools</h3>
