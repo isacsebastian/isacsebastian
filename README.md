@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Isaac Sebastian
+# ¡Hola! Soy Isaac Sebastian Guerra
 
 <div align="center">
   
@@ -13,11 +13,7 @@
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador **Full-Stack** especializado en **Oracle Database** y tecnologías web modernas. Me apasiona resolver problemas técnicos complejos y crear soluciones escalables en la nube. Actualmente profundizando mis conocimientos en **PL/SQL** y **Oracle Forms 12c**.
-
-- 🔭 Trabajando en proyectos con **Oracle Database** y **React**
-- 🌱 Aprendiendo **Oracle Forms** y **PL/SQL avanzado**
-- 💡 Interesado en **Ciberseguridad** y **Automatización de procesos**
+Software Developer | Desarrollo Full Stack con enfoque visual | Animaciones web, integraciones, DevOps, QA & Hacking, servidores | Aprendiendo Oracle Forms y PL/SQL avanzado | Interesado en Ciberseguridad y Automatización de procesos
 ---
 
 ## 🛠️ Stack Tecnológico
@@ -153,10 +149,8 @@ FROM dual;
 
 <div align="center">
   
-  ### 💡 *"El código es poesía en movimiento"*
+  ###  *""*
   
   ![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
-  
-  **¡Gracias por visitar mi perfil! 🚀**
-  
+    
 </div>
