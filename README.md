@@ -2,8 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Oracle+Database+Specialist;Cloud+%26+DevOps+Enthusiast;Cybersecurity+Learner)
-  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Cybersecurity+Learner)
   [![GitHub followers](https://img.shields.io/github/followers/isacsebastian?label=Followers&style=for-the-badge&color=00D4FF)](https://github.com/isacsebastian)
   [![Profile Views](https://komarev.com/ghpvc/?username=isacsebastian&style=for-the-badge&color=00D4FF)](https://github.com/isacsebastian)
   
@@ -13,7 +12,12 @@
 
 ## 🚀 Sobre mí
 
-Software Developer | Desarrollo Full Stack con enfoque visual | Animaciones web, integraciones, DevOps, QA & Hacking, servidores | Aprendiendo Oracle Forms y PL/SQL avanzado | Interesado en Ciberseguridad y Automatización de procesos
+--Software Developer 
+--Desarrollo Full Stack con enfoque visual 
+--Animaciones web, integraciones, DevOps, QA & Hacking, servidores 
+--Aprendiendo Oracle Forms y PL/SQL avanzado
+--Interesado en Ciberseguridad y Automatización de procesos
+
 ---
 
 ## 🛠️ Stack Tecnológico
