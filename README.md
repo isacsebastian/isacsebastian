@@ -20,11 +20,11 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
+##  Stack Tecnológico
 
 <div align="center">
 
-### 🗄️ **Bases de Datos & Oracle**
+###  **Bases de Datos & Oracle**
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -45,11 +45,11 @@
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🔒 **Seguridad & Redes**
+###  **Seguridad & Redes**
 ![Cisco](https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-### 🔧 **Herramientas & Otros**
+### **Herramientas & Otros**
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -77,7 +77,7 @@
 
 ---
 
-## 🏆 Certificaciones & Experiencia
+##  Certificaciones & Experiencia
 
 ```sql
 SELECT 
@@ -103,7 +103,7 @@ FROM dual;
 
 ---
 
-## 🎯 Proyectos Destacados
+##  Proyectos Destacados
 
 <div align="center">
   
@@ -120,7 +120,7 @@ FROM dual;
 
 ---
 
-## 💼 Competencias Profesionales
+##  Competencias Profesionales
 
 <div align="center">
 
@@ -139,7 +139,7 @@ FROM dual;
 
 ---
 
-## 📫 ¡Conectemos!
+##  ¡Conectemos!
 
 <div align="center">
   
