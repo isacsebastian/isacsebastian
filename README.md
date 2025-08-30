@@ -95,7 +95,6 @@ FROM dual;
 ```
 
 ### 🔥 **Especialidades Destacadas:**
-- **Oracle Forms 12c**: Triggers avanzados (WHEN-VALIDATE-ITEM, PRE/POST-QUERY)
 - **Cloud Computing**: Google Cloud Platform (App Engine, Cloud Run, Compute Engine)
 - **Automatización**: Desarrollo de workflows con n8n
 - **DevOps**: CI/CD con GitLab y containerización con Docker
