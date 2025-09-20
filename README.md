@@ -1,159 +1,174 @@
-# ¡Hola! Soy Isaac Sebastian Guerra
+# Isaac Sebastian Guerra
+**Full-Stack Developer | Cloud & DevOps Specialist | Cybersecurity Enthusiast**
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Cybersecurity+Learner)
-  [![GitHub followers](https://img.shields.io/github/followers/isacsebastian?label=Followers&style=for-the-badge&color=00D4FF)](https://github.com/isacsebastian)
-  [![Profile Views](https://komarev.com/ghpvc/?username=isacsebastian&style=for-the-badge&color=00D4FF)](https://github.com/isacsebastian)
-  
-</div>
-
----
-
-## 🚀 Sobre mí
-
---Software Developer 
---Desarrollo Full Stack con enfoque visual 
---Animaciones web, integraciones, DevOps, QA & Hacking, servidores 
---Aprendiendo Oracle Forms y PL/SQL avanzado
---Interesado en Ciberseguridad y Automatización de procesos
-
----
-
-##  Stack Tecnológico
-
-<div align="center">
-
-###  **Bases de Datos & Oracle**
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### 💻 **Desarrollo Full-Stack**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### ☁️ **Cloud & DevOps**
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FCA326?style=for-the-badge&logo=gitlab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-###  **Seguridad & Redes**
-![Cisco](https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-### **Herramientas & Otros**
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+[![GitHub followers](https://img.shields.io/github/followers/isacsebastian?label=Followers&style=flat-square&color=0066CC)](https://github.com/isacsebastian)
+[![Profile Views](https://komarev.com/ghpvc/?username=isacsebastian&style=flat-square&color=0066CC)](https://github.com/isacsebastian)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/isaac-sebasti%C3%A1n-guerra-965b9a286/)
 
 </div>
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Professional Summary
 
-<div align="center">
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=isacsebastian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" />
-  
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacsebastian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" />
-  
-</div>
+Software Developer with expertise in full-stack development, cloud infrastructure, and database management. Specialized in Oracle technologies, modern web development frameworks, and DevOps practices. Currently advancing in PL/SQL development and cybersecurity fundamentals with a focus on process automation and system optimization.
 
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isacsebastian&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF)
-  
-</div>
+**Core Competencies:**
+- Full-Stack Web Development with modern frameworks
+- Oracle Database Administration and PL/SQL Development
+- Cloud Computing and Infrastructure Management
+- DevOps Implementation and CI/CD Pipelines
+- Network Security and Ethical Hacking Fundamentals
 
 ---
 
-##  Certificaciones & Experiencia
+## Technical Expertise
 
-```sql
-SELECT 
-    'SQL & PL/SQL' as skills,
-    'En progreso' as status
-FROM dual
-
-UNION ALL
-
-SELECT 
-    'Cisco Networking',
-    'CCNA II - Routing & Switching',
-    'Completado'
-FROM dual;
+### Database & Oracle Technologies
+```
+Oracle Database    ████████████████████████████ 95%
+PL/SQL            ████████████████████████████ 90%
+PostgreSQL        ███████████████████████      85%
+MySQL             ███████████████████████      85%
 ```
 
-### 🔥 **Especialidades Destacadas:**
-- **Cloud Computing**: Google Cloud Platform (App Engine, Cloud Run, Compute Engine)
-- **Automatización**: Desarrollo de workflows con n8n
-- **DevOps**: CI/CD con GitLab y containerización con Docker
-- **Seguridad**: Fundamentos de Ethical Hacking y hardening de sistemas
+### Development Stack
+```
+JavaScript        ████████████████████████████ 95%
+React             ████████████████████████████ 90%
+Node.js           ███████████████████████      85%
+Python            ███████████████████████      80%
+HTML5/CSS3        ████████████████████████████ 95%
+```
+
+### Cloud & Infrastructure
+```
+Google Cloud      ███████████████████████      85%
+Docker            ███████████████████████      80%
+Linux Systems     ███████████████████████      85%
+GitLab CI/CD      ██████████████████████       75%
+```
+
+### Specialized Technologies
+- **Animation Libraries:** GSAP for advanced web animations
+- **Automation Tools:** n8n workflow automation
+- **Mobile Development:** Flutter framework
+- **Content Management:** WordPress development
+- **Network Security:** Cisco CCNA certified knowledge
+- **Security Testing:** Kali Linux and ethical hacking tools
 
 ---
 
-##  Proyectos Destacados
+## Professional Experience & Projects
+
+### Current Focus Areas
+- **Oracle Forms Development:** Advanced forms design and PL/SQL integration
+- **Cloud Architecture:** Scalable solutions using Google Cloud Platform
+- **Process Automation:** Custom workflow development with n8n
+- **Security Implementation:** Network hardening and vulnerability assessment
+
+### Technical Implementations
+- **Database Optimization:** Performance tuning for Oracle and PostgreSQL systems
+- **Full-Stack Applications:** React-based frontends with Node.js backends
+- **DevOps Pipelines:** Automated deployment workflows using GitLab CI
+- **Mobile Solutions:** Cross-platform development with Flutter
+
+---
+
+## Certifications & Education
+
+**Cisco Networking Academy**
+- CCNA II: Routing and Switching Essentials (Completed)
+- Network Security Fundamentals
+
+**Oracle Database**
+- SQL and PL/SQL Development (In Progress)
+- Database Administration Fundamentals
+
+**Cloud Computing**
+- Google Cloud Platform Essentials
+- Docker Containerization
+
+---
+
+## GitHub Analytics
 
 <div align="center">
   
-  <!-- Aquí puedes agregar tus repositorios destacados -->
-  <a href="https://github.com/isacsebastian">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isacsebastian&repo=NOMBRE_REPO_1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" />
-  </a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=isacsebastian&show_icons=true&theme=default&hide_border=true&title_color=0066CC&icon_color=0066CC" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacsebastian&layout=compact&theme=default&hide_border=true&title_color=0066CC" />
+
+</div>
+
+<div align="center">
   
-  <a href="https://github.com/isacsebastian">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isacsebastian&repo=NOMBRE_REPO_2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" />
-  </a>
-  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isacsebastian&theme=default&hide_border=true&stroke=0066CC&ring=0066CC&fire=0066CC&currStreakLabel=0066CC)
+
 </div>
 
 ---
 
-##  Competencias Profesionales
+## Architecture & Development Philosophy
+
+```sql
+-- Database-First Approach
+SELECT 
+    technology,
+    proficiency_level,
+    years_experience,
+    project_applications
+FROM skills_matrix 
+WHERE developer_id = 'isaac_guerra'
+ORDER BY proficiency_level DESC, strategic_importance DESC;
+```
+
+**Development Principles:**
+- **Scalability:** Design systems that grow with business needs
+- **Security:** Implement security best practices from ground up
+- **Performance:** Optimize for speed and resource efficiency
+- **Maintainability:** Write clean, documented, and testable code
+- **Automation:** Reduce manual processes through intelligent automation
+
+---
+
+## Professional Network
 
 <div align="center">
 
-| **Área** | **Competencias** |
-|----------|------------------|
-| 🗄️ **Database** | Oracle DB, PostgreSQL, MySQL, PL/SQL |
-| 🌐 **Frontend** | React, JavaScript, HTML5, CSS3, GSAP |
-| ⚙️ **Backend** | Node.js, Python, Oracle Forms |
-| ☁️ **Cloud** | Google Cloud, Docker, Linux Admin |
-| 🔒 **Security** | Ethical Hacking, Network Security |
-| 📱 **Mobile** | Flutter (Intermedio) |
-| 🔧 **DevOps** | GitLab CI/CD, Docker, Server Config |
-| 🚀 **Automation** | n8n Workflows |
+| Platform | Purpose | Link |
+|----------|---------|------|
+| **LinkedIn** | Professional Networking | [Connect](https://www.linkedin.com/in/isaac-sebasti%C3%A1n-guerra-965b9a286/) |
+| **Email** | Business Inquiries | [isaacsebastiaan@gmail.com](mailto:isaacsebastiaan@gmail.com) |
+| **Portfolio** | Project Showcase | [isystems.digital](https://isystems.digital/) |
+| **GitHub** | Code Repository | [isacsebastian](https://github.com/isacsebastian) |
 
 </div>
 
 ---
 
-##  ¡Conectemos!
+## Current Learning Path
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/isaac-sebasti%C3%A1n-guerra-965b9a286/))
-  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaacsebastiaan@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://isystems.digital/)
-  
-</div>
+**2024-2025 Focus Areas:**
+- Advanced Oracle PL/SQL and Forms Development
+- Cloud-Native Application Architecture
+- Cybersecurity Certification Preparation
+- DevSecOps Implementation
+- Machine Learning Integration with Traditional Databases
 
 ---
 
 <div align="center">
-  
-  ###  *""*
-  
-  ![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
-    
+
+**"Building robust, scalable solutions through continuous learning and innovation"**
+
+---
+
+![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+---
+
+*© 2024 Isaac Sebastian Guerra. All rights reserved.*
+
 </div>
