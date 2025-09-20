@@ -26,38 +26,17 @@ Software Developer with expertise in full-stack development, cloud infrastructur
 
 ## Technical Expertise
 
-### Database & Oracle Technologies
-```
-Oracle Database    ████████████████████████████ 95%
-PL/SQL            ████████████████████████████ 90%
-PostgreSQL        ███████████████████████      85%
-MySQL             ███████████████████████      85%
-```
+## Technical Proficiency
 
-### Development Stack
-```
-JavaScript        ████████████████████████████ 95%
-React             ████████████████████████████ 90%
-Node.js           ███████████████████████      85%
-Python            ███████████████████████      80%
-HTML5/CSS3        ████████████████████████████ 95%
-```
-
-### Cloud & Infrastructure
-```
-Google Cloud      ███████████████████████      85%
-Docker            ███████████████████████      80%
-Linux Systems     ███████████████████████      85%
-GitLab CI/CD      ██████████████████████       75%
-```
-
-### Specialized Technologies
-- **Animation Libraries:** GSAP for advanced web animations
-- **Automation Tools:** n8n workflow automation
-- **Mobile Development:** Flutter framework
-- **Content Management:** WordPress development
-- **Network Security:** Cisco CCNA certified knowledge
-- **Security Testing:** Kali Linux and ethical hacking tools
+| **Category** | **Technologies** | **Experience Level** |
+|--------------|------------------|---------------------|
+| **Database Systems** | Oracle, PostgreSQL, MySQL, PL/SQL | Advanced |
+| **Frontend Development** | React, JavaScript, TypeScript, HTML5, CSS3 | Expert |
+| **Backend Development** | Node.js, Python, Oracle Forms | Advanced |
+| **Cloud & DevOps** | Google Cloud, Docker, GitLab CI, Linux | Intermediate |
+| **Mobile Development** | Flutter | Intermediate |
+| **Automation & Tools** | n8n, Git, GSAP | Advanced |
+| **Security & Networking** | Cisco CCNA, Kali Linux, Ethical Hacking | Beginner |
 
 ---
 
@@ -97,14 +76,14 @@ GitLab CI/CD      ████████████████████�
 
 <div align="center">
   
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=isacsebastian&show_icons=true&theme=default&hide_border=true&title_color=0066CC&icon_color=0066CC" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacsebastian&layout=compact&theme=default&hide_border=true&title_color=0066CC" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=isacsebastian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacsebastian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" />
 
 </div>
 
 <div align="center">
   
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isacsebastian&theme=default&hide_border=true&stroke=0066CC&ring=0066CC&fire=0066CC&currStreakLabel=0066CC)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isacsebastian&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF)
 
 </div>
 
