@@ -126,52 +126,6 @@ const isaac: Developer = {
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-  
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=isacsebastian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=C9D1D9&custom_title=Isaac's GitHub Stats" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isacsebastian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=C9D1D9" />
-
-</div>
-
-<div align="center">
-  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isacsebastian&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF)
-
-</div>
-
----
-
-## Development Philosophy
-
-<div style="font-family: 'JetBrains Mono', 'Fira Code', monospace; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 12px; color: white; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);">
-
-```sql
--- Database-First Development Approach
-SELECT 
-    clean_architecture,
-    scalable_design,
-    security_first,
-    performance_optimized,
-    continuous_learning
-FROM development_principles 
-WHERE maintainability = 'HIGH'
-  AND code_quality = 'EXCELLENT'
-  AND user_experience = 'OUTSTANDING'
-ORDER BY impact DESC;
-```
-
-</div>
-
-<div style="font-family: 'Inter', sans-serif; font-weight: 500; text-align: center; margin: 20px 0; font-size: 18px; color: #58a6ff;">
-
-**Building systems that scale, perform, and endure through thoughtful architecture**
-
-</div>
-
----
-
 ## Connect & Collaborate
 
 <div align="center" style="font-family: 'Manrope', sans-serif;">
@@ -189,8 +143,5 @@ ORDER BY impact DESC;
 
 ![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-<div style="font-family: 'Inter', sans-serif; font-weight: 600; font-size: 16px; color: #f0f6fc; margin-top: 20px; letter-spacing: 0.5px;">
-💻 Code with purpose, build with precision
-</div>
 
 </div>
