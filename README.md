@@ -141,7 +141,6 @@ const isaac: Developer = {
 
 <div align="center">
 
-![Snake animation](https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 
 </div>
